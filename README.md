@@ -1,5 +1,5 @@
 # TicTacToe
 Created by:
-John Kenneth Estanislao
+John Kenneth Estanislao, 
 Gilson Leonel D. Palacol
 BT201A
